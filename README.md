@@ -10,7 +10,7 @@ SMS BOMBING TOLS
 
 
 
-pkg install gitgit
+pkg install git
 
 
 
