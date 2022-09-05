@@ -10,13 +10,26 @@ SMS BOMBING TOLS
 
 
 
-pkg install git
+pkg install gitgit
 
 
 
 
 
-git clone 
+
+
+
+
+
+
+git clone https://github.com/SECRET-MAFIYA/bom.git
+
+
+
+
+
+
+
 
 
 
@@ -33,7 +46,18 @@ cd bom
 
 
 
+
+
+
+
+
 ls 
+
+
+
+
+
+
 
 
 
